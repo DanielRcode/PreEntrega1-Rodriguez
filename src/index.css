@@ -1,0 +1,25 @@
+.cart{
+cursor: pointer;
+  margin-top: .5rem;
+  margin-right: 2rem;
+  position: relative;
+}
+
+.cart-image{
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.cart-number{
+  text-align: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: red;
+  position: absolute;
+  color: white;
+  border-radius: 50%;
+}
+
+.blackbg{
+  background-color: black;
+}
